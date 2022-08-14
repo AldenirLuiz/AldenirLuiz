@@ -31,4 +31,4 @@ A curiosidade é a BASE do conhecimento!
 - [Bruteforce.zip Descompacte arquivos .zip protegidos com senha usando Python3!](https://www.youtube.com/watch?v=Dfw-JomCdaE)<br/>
 - [Robo Para Instagram 2022. a prova de bloqueio!](https://www.youtube.com/watch?v=KVaiaPBv5uY)<br/>
 - [Jogo da Velha](https://www.youtube.com/watch?v=6PY0udRIBWc)<br/>
-- [Gerador de Combinações com Python](https://youtu.be/KRCfX25yFf4)<br/>
+- [Gerador de Combinações com Python](https://www.youtube.com/watch?v=UT3cbaOjoM4)<br/>
